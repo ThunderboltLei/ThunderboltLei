@@ -6,3 +6,4 @@
 
 # My skill:
 ###    Flink, Spark, Hive, Hadoop
+###    ML, Image Analyses
