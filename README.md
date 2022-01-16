@@ -1,3 +1,5 @@
+1.01 ^365 = 37.78343433288728
+
 # ThunderboltLei
 
 ![ThunderboltLei's github stats](https://github-readme-stats.vercel.app/api?username=ThunderboltLei&show_icons=true&theme=radical) 
