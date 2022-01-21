@@ -11,5 +11,5 @@
 
 
 # My Skill:
-###    Flink, Spark, Hive, Hadoop
+###    Flink, Storm, Spark, Hive, Hadoop, ElasticSearch
 ###    ML, Image Analyses
