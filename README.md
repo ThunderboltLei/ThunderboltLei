@@ -5,7 +5,7 @@
 
 # Remember:
 ### Work harder everyday, and success will come closer.
-1.01 ^365 = 37.78343433288728
+If you start at 1 and increase it by 1% every day, you'll get 1.01^365 = 37.78343433288728 after a year.
 
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/6621022/154318789-782187a8-c348-4e11-aa7c-060f9ed9550d.png">
 
