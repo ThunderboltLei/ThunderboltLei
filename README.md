@@ -11,5 +11,5 @@ If you start at 1 and increase it by 1% every day, you'll get 1.01^365 = 37.7834
 
 
 # Technical Direction:
-###    Real-time and offline data processing
+###    Real-time and Offline Data Processing
 ###    ML, Image Analyses
