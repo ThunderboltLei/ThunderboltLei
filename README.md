@@ -1,6 +1,6 @@
 # ThunderboltLei
 
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itxaiohanglover&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+![ThunderboltLei's github stats](https://github-readme-stats.vercel.app/api?username=ThunderboltLei&show_icons=true&theme=radical) 
 
 
 
